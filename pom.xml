@@ -41,14 +41,11 @@
             </plugin>
         </plugins>
     </build>
-
     <dependencies>
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots</artifactId>
             <version>3.1.2</version>
         </dependency>
-
     </dependencies>
-
 </project>
