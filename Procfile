@@ -1,2 +1,2 @@
-worker: java -jar/target/MyFirstTelegramBot-1.0-SNAPSHOT.jar
+worker: sh target/bin/MyFirstTelegramBot
 
