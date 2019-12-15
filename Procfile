@@ -1,2 +1,2 @@
-web: java -cp target/classes/com/home/Bot.class
+worker: sh target/bin/MyFirstTelegramBot
 
