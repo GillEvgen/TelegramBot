@@ -1,2 +1,2 @@
-web: sh target/bin/MyFirstTelegramBot
+worker: sh target/bin/MyFirstTelegramBot.bat
 
